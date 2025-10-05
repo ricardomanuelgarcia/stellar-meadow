@@ -48,14 +48,14 @@ profiles:
     url: https://orcid.org/00000-0002-3786-8028
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Scattering Theory
+  - Astrochemistry
+  - Atomic and Molecular Physics
+  - Electronic Structure Calculations
 
 education:
   - area: PhD Chemical Physics
-    institution: Universite de Bordeaux
+    institution: Université de Bordeaux
     date_start: 2021-10-01
     date_end: 2024-12-11
     summary: |
