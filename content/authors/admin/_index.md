@@ -37,15 +37,15 @@ profiles:
     url: 'rgarciavazqu@u-bordeaux.fr'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/AlexAIResearch
+    url: https://x.com/ricardo_gv_1993
   - icon: brands/github
-    url: https://github.com/alexjohnsonai
+    url: https://github.com/ricardomanuelgarcia
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnsonai/
+    url: https://www.linkedin.com/in/ricardo-m-garcia-vazquez/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=alexjohnson
+    url: https://scholar.google.com/citations?user=EhsdWV4AAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/00000-0002-3786-8028
 
 interests:
   - Large Language Models
@@ -54,36 +54,25 @@ interests:
   - AI Ethics
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: PhD Chemical Physics
+    institution: Universite de Bordeaux
+    date_start: 2021-10-01
+    date_end: 2024-12-11
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
+      Thesis on _Vibrational relaxation of water molecules in astrophysical environments_. Supervised by Dr. Stoecklin T. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
     button:
       text: 'Read Thesis'
       url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+  - area: BE Nuclear and Energetic Technologies
+    institution: University of La Havana
+    date_start: 2012-09-01
+    date_end: 2017-07-31
     summary: |
-      GPA: 4.0/4.0
-
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
-    summary: |
-      GPA: 3.9/4.0
-
-      Minored in Mathematics. President of AI Club.
-
+      Thesis on _Reactive Collisions for atom-diatom systems_. Supervised by Prof. Maykel Marquez Mijarez & Dra. Lisandra Barrios Herrera
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
+  - position: Postdoctoral Researcher in Chemical Physics
+    company_name: Institute des Sciences Moleculaires, Université de Bordeaux
+    company_url: 'https://www.ism.u-bordeaux.fr/'
     company_logo: ''
     date_start: 2020-01-01
     date_end: ''
