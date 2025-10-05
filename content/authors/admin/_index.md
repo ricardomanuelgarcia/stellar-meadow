@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Dr. Ricardo Manuel GARCIA VAZQUEZ
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Ricardo Manuel
+last_name: GARCIA VAZQUEZ
 
 # Pronouns (optional)
 pronouns: he/him
@@ -23,18 +23,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Postdoc position in Chemical Physics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
+  - name: Institute des Sciences Moleculaires,Universite de Bordeaux
     url: https://ai.meta.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'rgarciavazqu@u-bordeaux.fr'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/AlexAIResearch
