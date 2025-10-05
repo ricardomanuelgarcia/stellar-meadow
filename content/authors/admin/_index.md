@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoc position in Chemical Physics
+role: Postdoc Researcher in Chemical Physics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
